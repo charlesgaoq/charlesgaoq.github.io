@@ -4,6 +4,21 @@ title:  博客搭建过程记录
 date:   2018-02-06 15:40:48 +0800
 categories: jekyll update
 ---
-在这里先记录下搭建博客的整个过程    
-
-
+在这里先记录下搭建博客的整个过程.  
+一、准备工作  
+1，得有一个github账户，新建一个repository，该仓库的名字最好为github账户的username.github.io,这样page服务生成
+的网址应该为https://username.gihub.io  
+2,在本机电脑正确安装git工具，选取本地路径创建名为username.github.io文件夹为本地仓库  
+3，在当前路径下使用GUI或bash的方式生成key,将该key复制到github中的ssh选项的key一栏  
+4，配置本地git，目的是和github建立关联  
+二，hello world页面  
+1，在当前路径下建立index.html文件，里面加入hello world  
+2，使用git add --all && git commit -m "comment" && git push origin master  
+三，浏览网页  
+https://username.github.io即可  
+四，使用jekyll  
+1，准备工作  
+&nbsp;&nbsp;&nbsp;&nbsp;a.安装ruby    
+&nbsp;&nbsp;&nbsp;&nbsp;b.安装DevKit(在ruby下载界面有)      
+2，安装jekyll  
+3，成功安装后即可利用jekyll来写自己的博客了

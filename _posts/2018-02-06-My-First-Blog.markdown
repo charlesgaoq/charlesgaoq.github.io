@@ -6,6 +6,6 @@ categories: jekyll update
 ---
 这是我的第一个简单blog!在这里将记录工作生活的点滴！  
 ![picture](/resource/picture.jpg)  
-you can [get the information](/resource/information.txt)  
+  
 
 
