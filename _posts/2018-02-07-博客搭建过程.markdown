@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  博客搭建过程记录
-date:   2018-02-06 15:40:48 +0800
+date:   2018-02-07 10:40:48 +0800
 categories: jekyll update
 ---
 在这里先记录下搭建博客的整个过程.  
